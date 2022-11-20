@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rinlore
-- 👀 I’m interested in ... learning more python and implimentation
-- 🌱 I’m currently learning ... python 2
+- 👀 I’m interested in ... learning more html, css, html
+- 🌱 I’m currently learning ... html and css
 - 💞️ I’m looking to collaborate on ... getting better at coding
-- 📫 How to reach me ... melee1214@yahoo.com
+- 📫 How to reach me ... kritta1214@gmail.com
 
 <!---
 Rinlore/Rinlore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
